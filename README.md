@@ -18,7 +18,7 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
    - Introducera konceptet med CSS-variabler (Custom Properties).
    - Förklara syntax och användningsområden.
    - Visa exempel på hur variabler kan effektivisera kodhantering.
-   - Resurser: Guide om [CSS-variabler:](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties).
+   - Resurser: Guide om [CSS-variabler:](https://www.freecodecamp.org/news/how-to-use-css-variables/).
      
  ## 10:30 – 10:45 – Paus
 
