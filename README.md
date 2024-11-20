@@ -83,7 +83,7 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 ## Slides:
 * CSS-variabler.
 * CSS-enheter.
-* Typografi och Google Fonts.
+* [Typografi](https://docs.google.com/presentation/d/1yrEVSQZPDxgLMAOTEv4kqDQYxbQbW13Xx91VIdZ00fo/edit#slide=id.ga9c0c654c7_0_222)
 
 ## Övningar: 
 * Kodexempel för CSS-variabler och enheter.
