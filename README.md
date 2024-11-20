@@ -34,7 +34,7 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 ## LUNCH 12.00 till 13.00.
 
 * 13:00 – 14:15 – Typografi och Google Fonts
- * Presentation:
+ * Power Point:
    - Grundläggande typografi i webbutveckling (font-family, font-size, font-weight, line-height).
    - Betydelsen av läsbarhet och estetisk design.
  * Genomgång av Google Fonts:
