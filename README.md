@@ -73,7 +73,10 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 #### Utvalda för denna dag:
 * [Kort genomgång och övning om font och animeringar (del 5 - Fonts & Interactions)](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/fb7fa961-e767-4080-b678-540d2ddb6d78/d2c922b9-ab51-4927-8329-95a47b92a9a7)
 
-#### Läsning
+#### Länkar/Läsning
+* [Whatunit.com](https://whatunit.com/)
+* [“CSS Units Explained”](https://www.youtube.com/watch?v=N5wpD9Ov_To)
+* [“How to use Google Fonts”](https://www.youtube.com/watch?v=G1buM51f09s)
 * [CSS reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
 * [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
 
@@ -88,8 +91,3 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 
 ## Projektmaterial: 
 * [Get Coding, följ skiss](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
-
-#### Länkar/Läsning
-* [Whatunit.com](https://whatunit.com/)
-* [“CSS Units Explained”](https://www.youtube.com/watch?v=N5wpD9Ov_To)
-* [“How to use Google Fonts”](https://www.youtube.com/watch?v=G1buM51f09s)
