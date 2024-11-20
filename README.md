@@ -20,8 +20,6 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
    - Visa exempel på hur variabler kan effektivisera kodhantering.
    - Resurser: Guide om [CSS-variabler:](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties).
 
-*  Delkurs-organisation? Vad menas med denna punkt?*
-
 *  Genomgång av relevanta verktyg:
     - Teams
     - Github
