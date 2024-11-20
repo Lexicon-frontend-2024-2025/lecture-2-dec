@@ -71,6 +71,11 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 ## Material:
 
 #### Utvalda för denna dag:
+* [Kort genomgång och övning om font och animeringar (del 5 - Fonts & Interactions)](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/fb7fa961-e767-4080-b678-540d2ddb6d78/d2c922b9-ab51-4927-8329-95a47b92a9a7)
+
+#### Läsning
+* [CSS reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
+* [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
 
 ## Slides:
 * CSS-variabler.
@@ -89,5 +94,3 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 * [Whatunit.com](https://whatunit.com/)
 * [“CSS Units Explained”](https://www.youtube.com/watch?v=N5wpD9Ov_To)
 * [“How to use Google Fonts”](https://www.youtube.com/watch?v=G1buM51f09s)
-* [CSS Reset]()
-* [CSS Reset++]()
