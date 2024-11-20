@@ -72,22 +72,22 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 
 #### Utvalda för denna dag:
 
+## Slides:
+* CSS-variabler.
+* CSS-enheter.
+* Typografi och Google Fonts.
+
+## Övningar: 
+* Kodexempel för CSS-variabler och enheter.
+* HTML/CSS-fil för typografiövning.
+
+## Projektmaterial: 
+* Skiss och kravspecifikation för "Get Coding".
+* Tillgång till relevanta repon och dokumentation.
+
 #### Länkar/Läsning
 * [Whatunit.com](https://whatunit.com/)
 * [“CSS Units Explained”](https://www.youtube.com/watch?v=N5wpD9Ov_To)
 * [“How to use Google Fonts”](https://www.youtube.com/watch?v=G1buM51f09s)
 * [CSS Reset]()
 * [CSS Reset++]()
-
-## Övningar: 
-* Kodexempel för CSS-variabler och enheter.
-* HTML/CSS-fil för typografiövning.
-
-
-## Slides:
-* CSS-variabler.
-
-* CSS-enheter.
-
-* Typografi och Google Fonts.
-
