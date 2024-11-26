@@ -41,7 +41,7 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
    - Hur man hittar och implementerar typsnitt från Google Fonts.
    - Optimering för webbprestanda.
  * Videoresurs:
-   - Titta på [“How to use Google Fonts”](https://www.youtube.com/watch?v=G1buM51f09s).
+   - Titta på [“How to use Google Fonts”](https://www.youtube.com/watch?v=uebo3MsVSe0).
  * Praktisk övning:
    - Implementera ett Google Font i en HTML/CSS-fil.
 
