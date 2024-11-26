@@ -13,7 +13,7 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 ## Dagens schema:
 * Samling i klassrummet 09:00. Går igenom dagens agenda och mål samt checka in närvaro
 
-* 09:15 – 10:30 – Presentation:
+* 09:15 – 10:30 – Code Along:
   * CSS-variabler:
    - Introducera konceptet med CSS-variabler (Custom Properties).
    - Förklara syntax och användningsområden.
@@ -22,7 +22,7 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
      
  ## 10:30 – 10:45 – Paus
 
-* 10:45 – 12:00 – CSS-enheter och Whatunit.com
+* 10:45 – 12:00 – Fortsatt Code Along: CSS-enheter och Whatunit.com
  * Presentation:
    - Gå igenom olika enheter i CSS: absoluta (px) och relativa (em, rem, %, vh, vw).
    - Diskutera fördelar och nackdelar med varje enhet.
@@ -40,7 +40,6 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
    - Betydelsen av läsbarhet och estetisk design.
  * Genomgång av Google Fonts:
    - Hur man hittar och implementerar typsnitt från Google Fonts.
-   - Optimering för webbprestanda.
  * Videoresurs:
    - Titta på [“How to use Google Fonts”](https://www.youtube.com/watch?v=uebo3MsVSe0).
  * Praktisk övning:
@@ -83,8 +82,6 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 * [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
 
 ## Slides:
-* CSS-variabler.
-* CSS-enheter.
 * [Typografi](https://docs.google.com/presentation/d/1yrEVSQZPDxgLMAOTEv4kqDQYxbQbW13Xx91VIdZ00fo/edit#slide=id.ga9c0c654c7_0_222)
 
 ## Övningar: 
