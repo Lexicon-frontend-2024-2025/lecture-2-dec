@@ -85,8 +85,8 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 * [Typografi](https://docs.google.com/presentation/d/1yrEVSQZPDxgLMAOTEv4kqDQYxbQbW13Xx91VIdZ00fo/edit#slide=id.ga9c0c654c7_0_222)
 
 ## Övningar: 
-* Kodexempel för CSS-variabler och enheter.
-* HTML/CSS-fil för typografiövning.
+* [Code Along och övningar i denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-2-dec/tree/codeAlong-css-variabler-enheter)
+
 
 ## Projektmaterial: 
 * [Get Coding, följ skiss](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=0-1&node-type=canvas&t=gbOCVJDvvtuOVdRM-0)
