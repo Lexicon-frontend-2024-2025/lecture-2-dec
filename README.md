@@ -30,6 +30,7 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
    - Använd [Whatunit.com](https://whatunit.com/) för att välja rätt enhet baserat på scenario.
  * Videoresurs:
    - Titta på [“CSS Units Explained”](https://www.youtube.com/watch?v=N5wpD9Ov_To) och diskutera innehållet.
+   - Titta på [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 
 ## LUNCH 12.00 till 13.00.
 
