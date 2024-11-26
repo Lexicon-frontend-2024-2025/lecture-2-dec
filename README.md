@@ -75,6 +75,7 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 
 #### Länkar/Läsning
 * [Whatunit.com](https://whatunit.com/)
+* [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 * [“CSS Units Explained”](https://www.youtube.com/watch?v=N5wpD9Ov_To)
 * [“How to use Google Fonts”](https://www.youtube.com/watch?v=uebo3MsVSe0)
 * [CSS reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
