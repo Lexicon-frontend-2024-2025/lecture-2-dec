@@ -76,7 +76,7 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 #### Länkar/Läsning
 * [Whatunit.com](https://whatunit.com/)
 * [“CSS Units Explained”](https://www.youtube.com/watch?v=N5wpD9Ov_To)
-* [“How to use Google Fonts”](https://www.youtube.com/watch?v=G1buM51f09s)
+* [“How to use Google Fonts”](https://www.youtube.com/watch?v=uebo3MsVSe0)
 * [CSS reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
 * [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
 
