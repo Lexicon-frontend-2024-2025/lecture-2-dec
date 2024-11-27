@@ -22,7 +22,7 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
      
  ## 10:30 – 10:45 – Paus
 
-* 10:45 – 12:00 – Fortsatt Code Along: CSS-enheter och Whatunit.com
+* 10:45 – 11:45 – Fortsatt Code Along: CSS-enheter och Whatunit.com
  * Presentation:
    - Gå igenom olika enheter i CSS: absoluta (px) och relativa (em, rem, %, vh, vw).
    - Diskutera fördelar och nackdelar med varje enhet.
@@ -32,25 +32,14 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
    - Titta på [“CSS Units Explained”](https://www.youtube.com/watch?v=N5wpD9Ov_To) och diskutera innehållet.
    - Titta på [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 
+ * 11:45 – 12:00 – Starta "Get Coding"-projektet
+   * Introduktion:
+    - Presentera projektet och dess mål.
+    - Gå igenom skissen och kravspecifikationer.
+
 ## LUNCH 12.00 till 13.00.
 
-* 13:00 – 14:15 – Typografi och Google Fonts
- * Power Point:
-   - Grundläggande typografi i webbutveckling (font-family, font-size, font-weight, line-height).
-   - Betydelsen av läsbarhet och estetisk design.
- * Genomgång av Google Fonts:
-   - Hur man hittar och implementerar typsnitt från Google Fonts.
- * Videoresurs:
-   - Titta på [“How to use Google Fonts”](https://www.youtube.com/watch?v=uebo3MsVSe0).
- * Praktisk övning:
-   - Implementera ett Google Font i en HTML/CSS-fil.
-
- ## 14:15 – 14:30 – Paus
-
-* 14:30 – 16:00 – Starta "Get Coding"-projektet
- * Introduktion:
-   - Presentera projektet och dess mål.
-   - Gå igenom skissen och kravspecifikationer.
+* 13:00 – 16:00 – Fortsättning med "Get Coding"-projektet
  * Projektarbete:
    - Studenterna börjar arbeta individuellt eller i par.
    - Fokus på att tillämpa dagens lärdomar i projektet.
@@ -68,6 +57,20 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 
 * Dagsavslut 17:00
 
+(
+Detta kommer flyttas till tisdagen den 3 december:
+* Typografi och Google Fonts
+ * Power Point:
+   - Grundläggande typografi i webbutveckling (font-family, font-size, font-weight, line-height).
+   - Betydelsen av läsbarhet och estetisk design.
+ * Genomgång av Google Fonts:
+   - Hur man hittar och implementerar typsnitt från Google Fonts.
+ * Videoresurs:
+   - Titta på [“How to use Google Fonts”](https://www.youtube.com/watch?v=uebo3MsVSe0).
+ * Praktisk övning:
+   - Implementera ett Google Font i en HTML/CSS-fil.
+)
+
 ## Material:
 
 #### Utvalda för denna dag:
@@ -77,12 +80,20 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 * [Whatunit.com](https://whatunit.com/)
 * [Förklaring och genomgång av Flow chart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 * [“CSS Units Explained”](https://www.youtube.com/watch?v=N5wpD9Ov_To)
+
+(
+  Detta kommer flyttas till tisdagen den 3 december:
 * [“How to use Google Fonts”](https://www.youtube.com/watch?v=uebo3MsVSe0)
+)
+
 * [CSS reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
 * [CSS Reset++](https://piccalil.li/blog/a-more-modern-css-reset/)
 
+(
+  Detta kommer flyttas till tisdagen den 3 december:
 ## Slides:
 * [Typografi](https://docs.google.com/presentation/d/1yrEVSQZPDxgLMAOTEv4kqDQYxbQbW13Xx91VIdZ00fo/edit#slide=id.ga9c0c654c7_0_222)
+)
 
 ## Övningar: 
 * [Code Along och övningar i denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-2-dec/tree/codeAlong-css-variabler-enheter)
