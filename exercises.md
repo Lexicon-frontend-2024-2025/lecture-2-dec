@@ -1,44 +1,3 @@
-Praktisk Övning: Implementera ett Google Font i en HTML/CSS-fil
-
-Mål: Lära sig hur man inkluderar och använder ett typsnitt från Google Fonts i ett projekt.
-
-Steg-för-steg:
-Besök Google Fonts:
-
-Gå till Google Fonts.
-
-Välj ett typsnitt:
-
-Sök efter och välj typsnittet "Roboto".
-
-Välj stilar:
-
-Under "Styles" välj "Regular 400" och "Bold 700".
-
-Generera länken:
-Klicka på "View selected families" längst ned. Kopiera <link>-taggen som visas under "Embed". Det ska se ut ungefär så här:
-{
-/_ <link rel="stylesheet" href="https:fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"> _/
-}
-
-Inkludera typsnittet i din HTML-fil:
-
-Klistra in <link>-taggen i <head>-sektionen av din HTML-fil, precis ovanför länken till din CSS-fil:
-
-Använd typsnittet i din CSS:
-
-Uppdatera dina CSS-regler för att använda "Roboto":
-Alternativt kan du direkt sätta font-family i dina selektorer:
-
-Spara och testa:
-Spara dina filer och öppna HTML-filen i din webbläsare för att se det nya typsnittet i aktion.
-
----
-
----
-
----
-
 Övningar för CSS-Variabler och Enheter
 
 Övning 1: Skapa ett färgtema med CSS-variabler
@@ -85,6 +44,49 @@ Genom att använda viewport-enheter kan vi skapa en layout som anpassar sig efte
 
 ---
 
+(
+Detta kommer flyttas till tisdagen den 3 december:
+Praktisk Övning: Implementera ett Google Font i en HTML/CSS-fil
+
+Mål: Lära sig hur man inkluderar och använder ett typsnitt från Google Fonts i ett projekt.
+
+Steg-för-steg:
+Besök Google Fonts:
+
+Gå till Google Fonts.
+
+Välj ett typsnitt:
+
+Sök efter och välj typsnittet "Roboto".
+
+Välj stilar:
+
+Under "Styles" välj "Regular 400" och "Bold 700".
+
+Generera länken:
+Klicka på "View selected families" längst ned. Kopiera <link>-taggen som visas under "Embed". Det ska se ut ungefär så här:
+{
+/_ <link rel="stylesheet" href="https:fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"> _/
+}
+
+Inkludera typsnittet i din HTML-fil:
+
+Klistra in <link>-taggen i <head>-sektionen av din HTML-fil, precis ovanför länken till din CSS-fil:
+
+Använd typsnittet i din CSS:
+
+Uppdatera dina CSS-regler för att använda "Roboto":
+Alternativt kan du direkt sätta font-family i dina selektorer:
+
+Spara och testa:
+Spara dina filer och öppna HTML-filen i din webbläsare för att se det nya typsnittet i aktion.
+
+---
+
+---
+
+---
+
 Typografiövning
 
 Mål: Förstå hur man använder olika typografiska stilar i CSS för att förbättra läsbarheten och utseendet på en webbplats.
@@ -107,3 +109,5 @@ Använd CSS-variabler för typografi:
 Deklarera variabler för fontstorlekar och använd dem i dina stilar.
 
 Denna övning ger er möjlighet att praktisera och experimentera med olika typografiska inställningar. Genom att förstå hur olika egenskaper påverkar textens utseende kan ni skapa mer attraktiva och lättlästa webbplatser.
+
+)
