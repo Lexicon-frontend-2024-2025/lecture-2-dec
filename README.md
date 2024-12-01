@@ -6,8 +6,8 @@ Intro till variabler, enheter och typografi. Genomgång av Google fonts. Börja 
 ## Mål för dagen: 
 - Förstå vad CSS-variabler är och hur de används.
 - Känna till olika CSS-enheter (px, em, rem, %, vh, vw) och när de ska användas.
-- Lära sig grunderna i typografi inom webbutveckling.
-- Kunna implementera Google Fonts i ett projekt.
+- (Flyttas till tisdag) Lära sig grunderna i typografi inom webbutveckling.
+- (Flyttas till tisdag) Kunna implementera Google Fonts i ett projekt.
 - Påbörja "Get Coding"-projektet.
 
 ## Dagens schema:
